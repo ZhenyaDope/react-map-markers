@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-map-markers/static/css/main.3efadf6b.chunk.css",
+    "main.js": "/react-map-markers/static/js/main.6e6b9cdb.chunk.js",
+    "main.js.map": "/react-map-markers/static/js/main.6e6b9cdb.chunk.js.map",
+    "runtime-main.js": "/react-map-markers/static/js/runtime-main.47fe197b.js",
+    "runtime-main.js.map": "/react-map-markers/static/js/runtime-main.47fe197b.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/react-map-markers/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.9a80e2d3.chunk.js": "/react-map-markers/static/js/2.9a80e2d3.chunk.js",
+    "static/js/2.9a80e2d3.chunk.js.map": "/react-map-markers/static/js/2.9a80e2d3.chunk.js.map",
+    "index.html": "/react-map-markers/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/react-map-markers/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.3efadf6b.chunk.css.map": "/react-map-markers/static/css/main.3efadf6b.chunk.css.map",
+    "static/js/2.9a80e2d3.chunk.js.LICENSE.txt": "/react-map-markers/static/js/2.9a80e2d3.chunk.js.LICENSE.txt",
+    "static/media/carIcon.2996acbc.svg": "/react-map-markers/static/media/carIcon.2996acbc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47fe197b.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.9a80e2d3.chunk.js",
+    "static/css/main.3efadf6b.chunk.css",
+    "static/js/main.6e6b9cdb.chunk.js"
+  ]
+}
