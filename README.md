@@ -18,6 +18,7 @@
 - Leaflet (Бибилотека с картой)
 - react-redux (Redux hooks)
 - Верстка макета
+- Preloader
 
 # Getting Started with Create React App
 
