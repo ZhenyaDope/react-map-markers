@@ -1,0 +1,6 @@
+.active {
+    filter: sepia(100%) brightness(104%) hue-rotate(107deg) saturate(390%) invert(100%);
+    -webkit-filter: sepia(100%) brightness(104%) hue-rotate(107deg) saturate(390%) invert(100%);
+    -moz-filter: sepia(100%) brightness(104%) hue-rotate(107deg) saturate(390%) invert(100%);
+    transition: .2s;
+}

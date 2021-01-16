@@ -1,0 +1,72 @@
+.Sidebar{
+    height: 95vh;
+    width: 270px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #fff;
+    z-index: 1000;
+    border-radius: 9px;
+    margin: 20px 35px;
+    padding: 0;
+}
+
+
+.Title{
+    margin: 0;
+ 
+    padding:11px 16px 8px;
+    font-size:24px;
+}
+.List {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0;;
+    margin: 0;
+    list-style: none;
+}
+
+.List_Item{
+    padding: 6px 16px;
+    font-size:11px;
+    border-bottom: 1px solid #EDEDED;
+    display: flex;
+    align-items: center;
+    transition: .3s;
+}
+.List_Item:hover{
+    
+    background: rgba(255, 245, 0, 0.4);
+    cursor: pointer;
+}
+
+.List_Item img{
+    padding-right: 10px;
+}
+
+
+.active{
+    background: rgba(255, 245, 0, 0.4);
+}
+
+.loading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:100px;
+}
+
+.form{
+padding: 10px 10px 10px 5px;
+}
+
+.searchInput{
+    margin: 0;
+    padding: 0 2px;
+    outline: none;
+    width:100%;
+    height: 30px;
+}
+
+

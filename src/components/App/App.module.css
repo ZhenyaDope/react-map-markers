@@ -1,0 +1,11 @@
+.App{
+    
+
+}
+.Map{
+    height:100vh;
+    width: auto;
+    position: relative;
+    z-index: 100;
+}
+
